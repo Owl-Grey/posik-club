@@ -108,3 +108,76 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 .contant__text p{
 	margin: 0 0 20px 0;
 }
+
+#home.active{
+	background-color: red;
+	color:white;
+}
+#home{
+	background-color: white;
+	color:black;
+}
+#v-pills-home{
+	background-color: red;
+	color:white;
+}
+#parents.active{
+	background-color: green;
+	color:white;
+}
+#parents{
+	background-color: white;
+	color:black;
+}
+#v-pills-parents{
+	background-color: green;
+	color:white;
+}
+#collegs.active{
+	background-color: pink;
+	color:white;
+}
+#collegs{
+	background-color: white;
+	color:black;
+}
+#v-pills-collegs{
+	background-color: pink;
+	color:white;
+}
+#test.active{
+	background-color: blue;
+	color:white;
+}
+#test{
+	background-color: white;
+	color:black;
+}
+#v-pills-test{
+	background-color: blue;
+	color:white;
+}
+#v-pills-achivements{
+	background-color: orange;
+	color:white;
+}
+#achivements.active{
+	background-color: orange;
+	color:white;
+}
+#achivements{
+	background-color: white;
+	color:black;
+}
+#calendar{
+	background-color: purple;
+	color:white;
+}
+#calendar.active{
+	background-color: purple;
+	color:white;
+}
+#calendar{
+	background-color: white;
+	color:black;
+}
