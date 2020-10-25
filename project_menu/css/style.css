@@ -109,7 +109,7 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 	margin: 0 0 20px 0;
 }
 
-#home.active{
+/* #home.active{
 	background-color: red;
 	color:white;
 }
@@ -180,4 +180,4 @@ h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
 #calendar{
 	background-color: white;
 	color:black;
-}
+} */

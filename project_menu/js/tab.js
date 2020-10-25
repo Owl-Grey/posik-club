@@ -7,3 +7,8 @@ $('#v-pills-tab a').on('click', function (e) {
 
 
 })
+
+
+// $('.carousel').carousel({
+//   interval: 2000
+// })
